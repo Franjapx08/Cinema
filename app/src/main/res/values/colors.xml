@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#295999</color>
+    <color name="colorPrimaryDark">#275390</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="back">#ffffff</color>
+    <color name="wordTrans">#f2e9e9</color>
+    <color name="wordBlack">#1d1d1d</color>
+    <color name="wordsGray">#a5a5a5</color>
+    <color name="colorIcon">#24a1d9</color>
+    <color name="wordCarte">#484848</color>
+    <color name="border">#dedede</color>
+    <color name="timeCarte">#787878</color>
+</resources>

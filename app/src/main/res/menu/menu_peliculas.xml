@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:title="Estás en Cartelera"
+    android:gravity="left"
+    >
+    <item
+        android:id="@+id/menu_op1"
+        android:title="Cartelera"
+        android:icon="@drawable/ic_movel"/>
+
+    <item
+        android:id="@+id/menu_op2"
+        android:title="Preventas"
+        android:drawableLeft="@drawable/ic_ticket"
+        />
+    <item
+        android:id="@+id/menu_op3"
+        android:title="Próximos estrenos"
+        android:drawableLeft="@drawable/ic_ticket_1"
+        />
+
+
+</menu>
